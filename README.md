@@ -1,2 +1,2 @@
 # Node-Express-Cloud
-test deploy to node cloud
+test deploy node to cloud
